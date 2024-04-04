@@ -12,4 +12,4 @@ The analysis includes ten main visualizations:
 7.  Top 10 Jobs with Highest Salary
 8.  Job Offers for Each Candidate Level
 9.  Impact of Date and Day of the Week on Deadline Selection
-10.  correlation between the number of offers and salary
+10. Correlation between the number of offers and salary
